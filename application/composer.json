@@ -1,0 +1,16 @@
+{
+    "name": "fakhri/nc",
+    "description": "Website ND Collection berbasis PHP dengan Framework CodeIgniter3",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fakhri Rizha Ananda",
+            "email": "mr.fakhririzhaa@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.11",
+        "fzaninotto/faker": "^1.8"
+    }
+}
