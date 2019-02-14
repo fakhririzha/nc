@@ -8,6 +8,8 @@ application/logs/*
 
 !application/*/.htaccess
 
+application/vendor/*
+
 composer.lock
 
 user_guide_src/build/*
@@ -20,6 +22,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 #-------------------------
 /nbproject/
 .idea/*
+.vscode/*
 
 ## Sublime Text cache files
 *.tmlanguage.cache
